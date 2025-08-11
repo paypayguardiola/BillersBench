@@ -1,0 +1,7 @@
+cd /path/to/bench-app-complete
+git init
+git add .
+git commit -m "Initial BenchMap scaffold with OAuth and Firebase variant"
+git branch -M main
+git remote add origin YOUR_REPO_URL_HERE
+git push -u origin main
